@@ -15,7 +15,6 @@
 		<a href="index.html" id="logo"><img src="images/logo.jpg" alt="LOGO" /></a>
 <?php require_once ('menu.php'); ?>
 		<div id="search">
-
 		</div>
 	</div> <!-- /#header -->
 	<div id="contents">
