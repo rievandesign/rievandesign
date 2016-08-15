@@ -15,10 +15,7 @@
 		<a href="index.html" id="logo"><img src="images/logo.jpg" alt="LOGO" /></a>
 <?php require_once ('menu.php'); ?>
 		<div id="search">
-			<form action="" method="">
-				<input type="text" value="Search" class="txtfield" onblur="javascript:if(this.value==''){this.value=this.defaultValue;}" onfocus="javascript:if(this.value==this.defaultValue){this.value='';}" />
-				<input type="submit" value="" class="button" />
-			</form>
+
 		</div>
 	</div> <!-- /#header -->
 	<div id="contents">

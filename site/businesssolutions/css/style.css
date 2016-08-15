@@ -69,12 +69,12 @@ img {
 
 /** Searchbar **/
 #search {
-	background: url(../images/bg-search.gif) no-repeat right bottom;
+	background: url(../images/bg-menu.gif) repeat-x;
 	height: 47px;
 	width: 268px;
 	padding: 13px 0 0;
 	position: absolute;
-	bottom: -20px;
+	bottom: -33px;
 	right: 0;
 }
 #search form {
@@ -87,7 +87,7 @@ img {
 	line-height: 38px;
 }
 #search .txtfield {
-	color: #6e6e6e;
+	color: #b7c2c8;
 	font-size: 15px;
 	font-style: italic;
 	height: 38px;
