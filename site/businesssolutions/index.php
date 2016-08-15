@@ -15,7 +15,10 @@
         
 		<a href="index.html" id="logo"><img src="images/logo4.jpg" width="100"/><img src="images/logo.jpg" alt="LOGO"/> <b> <font size="3" color="white" style="padding-top: -15px;"/>(813)-446-1019 </font></b></a>
 
-<?php require_once ('menu.php'); ?>
+<?php 
+$page= 'index';
+require_once ('menu.php'); 
+?>
 		<div id="search">
 		</div>
 	</div> <!-- /#header -->

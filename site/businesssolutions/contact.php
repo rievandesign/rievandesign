@@ -13,7 +13,10 @@
 <body>
 	<div id="header">
 		<a href="index.html" id="logo"><img src="images/logo.jpg" alt="LOGO" /></a>
-<?php require_once ('menu.php'); ?>
+<?php 
+$page= 'contact';
+require_once ('menu.php'); 
+?>
 		<div id="search">
 		</div>
 	</div> <!-- /#header -->
