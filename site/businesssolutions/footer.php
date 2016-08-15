@@ -1,19 +1,17 @@
 	<div id="footer">
 		<ul class="contacts">
 			<h3>Contact Us</h3>
-			<li><span>Email</span><p>: company@email.com</p></li>
-			<li><span>Address</span><p>: 189 Lorem Ipsum Pellentesque, Mauris Etiam ut velit odio Proin id nisi enim 0000</p></li>
-			<li><span>Phone</span><p>: 117-683-9187-000</p></li>
+			<li><span>Email</span><p>: support@rievandesign.com</p></li>
+			<li><span>Address</span><p>: 2216 us.19 Holiday FL 34691</p></li>
+			<li><span>Phone</span><p>: 813-446-1019</p></li>
 		</ul>
 		<ul id="connect">
-			<h3>Get Updated</h3>
-			<li><a href="blog.html">Blog</a></li>
-			<li><a href="http://facebook.com/freewebsitetemplates" target="_blank">Facebook</a></li>
-			<li><a href="http://twitter.com/fwtemplates" target="_blank">Twitter</a></li>
+			<h3></h3>
+			
 		</ul>
 		<div id="newsletter">
-			<p><b>Sign-up for Newsletter</b>
-				In sollicitudin vulputate metus, sed commodo diam elementum nec. Sed et risus sed magna convallis adipiscing.
+			<p><b>Sign-up for Our Newsletter</b>
+			 Your informaition will never be sold or handed off to a third party. We here at Rievan Design treat our customers the way we would want to be treated and never sell infomration. 
 			</p>
 			<form action="" method="">
 				<input type="text" value="Name" class="txtfield" onblur="javascript:if(this.value==''){this.value=this.defaultValue;}" onfocus="javascript:if(this.value==this.defaultValue){this.value='';}" />
@@ -21,5 +19,5 @@
 				<input type="submit" value="" class="button" />
 			</form>
 		</div>
-		<span class="footnote">&copy; Copyright &copy; 2011. All rights reserved</span>
+		<span class="footnote">&copy; Copyright &copy; <?php echo date("Y"); ?>. Rievandesign.com</span>
 	</div> <!-- /#footer -->

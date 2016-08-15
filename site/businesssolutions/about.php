@@ -23,30 +23,22 @@ require_once ('menu.php');
 	</div> <!-- /#header -->
 	<div id="contents">
 		<div class="background">
-			<h3>We Have Free Templates for Everyone</h3>
+			<h3>About Rievan Design & Marketing</h3>
 			<p>
-				Our website templates are created with inspiration, checked for quality and originality and meticulously sliced and coded. What&acute;s more, they&acute;re
-				absolutely free! You can do a lot with them. You can modify them. You can use them to design websites for clients, so long as you agree with
-				the <a href="http://www.freewebsitetemplates.com/about/termsofuse/">Terms of Use</a>. You can even remove all our links if you want to.
+				Rievan Design was founded by Alexander Sareyani after over 15 years of programming and web design experience. The driving force behind creating the company was his absolute passion for streamlining daily business operations via web techniques. 
 			</p>
 
-			<h3>We Have More Templates for You</h3>
-			<p>
-				Looking for more templates? Just browse through all our <a href="http://www.freewebsitetemplates.com/">Free Website	Templates</a> and find what you&acute;re looking for. But if you don&acute;t find any
-				website template you can use, you can try our <a href="http://www.freewebsitetemplates.com/freewebdesign/">Free Web Design</a> service and tell us all about it. Maybe you&acute;re looking for something different,
-				something special. And we love the challenge of doing something	different and something special.
-			</p>
-
-			<h3>Be Part of Our Community</h3>
-			<p>If you&acute;re experiencing issues and concerns about this website template, join the discussion <a href="http://www.freewebsitetemplates.com/forum/">on our forum</a> and meet other people in the community who share the same interests with you.</p>
-
-			<p>
-				<b>Template details</b>
-				Version 5<br/><br/>
-				Website Template details, discussion and updates for this <a href="http://www.freewebsitetemplates.com/forum/f18/business-solutions-website-template-18773">Business Solutions Template</a>.<br/><br/>
-				Website Template design by <a href="http://www.freewebsitetemplates.com/">Free Website Templates</a>.<br/><br/>
-				Please feel free to remove some or all the text and links of this page and replace it with your own About content.<br/><br/>
-			</p>
+			<p>After working for Walt Disney World in their operations department Alexander began creating web flows for some of the top affiliate marketers in the country. Keeping an eye on the R.O.I. Alexander successfully managed upwards of 1 million dollars per month in advertising spend into some of the web based assets he designed and maintained. 
+            </p>
+            
+            <p>
+            Today, Rievan Design strives to take small to medium sized companies and catapult them using the same techniques that worked for some of the largest internet presence on the web.   
+            </p>
+            
+            <p style="width: 500px; margin: auto; height:  auto;text-align: left;">
+            <i><b>"The fact that normal business operations can be integrated into web portals, and be made accessible to anyone with an internet connection, has always driven me to excel in web applications."</b></i><center>Alexander Sareyani</center>
+            </p>
+            
 		</div>
 	</div> <!-- /#contents -->
 <?php 
