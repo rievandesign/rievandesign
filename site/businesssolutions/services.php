@@ -23,37 +23,35 @@ require_once ('menu.php');
 	<div id="contents">
 		<div class="background">
 			<div id="services">
-				<span>This website template has been designed by <a href="http://www.freewebsitetemplates.com/">Free Website Templates</a> for you, for free. You can replace all this text with your own text.</span>
+
+                
+                
+                				<span>Because every single client and company is different it is vital for the success of the project for there to be a solid understanding of what is expected. For this reason a step by step needs analysis is done in order to best understand the overall scope and direction of the project. </span>
 				<p>
-					This website template has been designed by <a href="http://www.freewebsitetemplates.com/">Free Website Templates</a> for you, for free. You can replace all this text with your own text.
-					You can remove any link to our website from this website template, you're free to use this website template without linking back to us.
-					If you're having problems editing this website template, then don't hesitate to ask for help on the <a href="http://www.freewebsitetemplates.com/forum/">Forum</a>.
+                <span>Needs Analysis</span>
+					Our Needs analysis is 100% FREE and is done so we can allocate the correct resources and determine a fair and equally beneficial project scope and cost to our client. Depending on the type of project we have a series of questions are asked which are designed to best help us understand your requirements so we can allocate the exact resources needed to complete your project. 
 				</p>
-				<img src="images/discussing.jpg" alt="ServiceImg" />
-				<ul>
-					<li>
-						<b>Lorem ipsum dolor sit amet, consectetur adipis cingelit.</b>
-						Nunc ut turpis vitae purus cursus malesuada at sed lacus. Integer pretium luctus felis, a dictum dui malesuada in.
-					</li>
-					<li>
-						<b>Praesent nunc erat, mollis sed varius id, blandit ut nisi. Aliquam in ipsum purus</b>
-						in dignissim turpis. Nullam a adipiscing felis. Etiam a egestas dui. Cum sociis natoque penatibus et magnis dis parturient montes, nascetur ridiculus mus.
-					</li>
-					<li>
-						<b>Nunc eu neque vel velit fringilla placerat at eu nulla.</b>
-						Sed tempus metus a lectus tristique in malesuada dolor mollis.
-					</li>
-				</ul>
+                <!-- <div class="imagefloat" style="float: right;"/><img src="images/discussing.jpg" alt="ServiceImg" /></div> -->
+				<span>Our Team</span>
 				<p>
-					Our website templates are created with inspiration, checked for quality and originality and meticulously sliced and coded. What&acute;s more, they&acute;re
-					absolutely free! You can do a lot with them. You can modify them. You can use them to design websites for clients, so long as you agree with
-					the <a href="http://www.freewebsitetemplates.com/about/termsofuse/">Terms of Use</a>. You can even remove all our links if you want to.
-				</p>
-				<p>
-					We Have More Templates for You : Looking for more templates? Just browse through all our <a href="http://www.freewebsitetemplates.com/">Free Website	Templates</a> and find what you&acute;re looking for. But if you don&acute;t find any
-					website template you can use, you can try our <a href="http://www.freewebsitetemplates.com/freewebdesign/">Free Web Design</a> service and tell us all about it. Maybe you&acute;re looking for something different,
-					something special. And we love the challenge of doing something	different and something special.
-				</p>
+                First a project manager will be assigned to your project. This persons goal is to communicate with you and make sure every aspect of the project is done to your satisfaction. This person will also be working with upper management to create and manage the necessary programming talent needed to complete your job. 
+<p>
+Because our team consists of over 20 highly qualified talented programming professionals, all with different skills, it's important for us to match your project with the talent that will best suite your needs. 
+</p>
+<p>
+It would make no sense to hire a great front end developer when your needs are for someone to code the back end portal of your already existing site. 
+                </p>
+                <span>Infrastructure</span>
+                <p>
+                Rievan Design Has teamed up with some of the best server experts in the United States. After years of working with countless server companies we have developed a system that we believe puts us above the curve. We are capable of creating, maintaining and overseeing any type of server need.  Our servers  can handle millions upon million of hits each day and we utilize the resources based on our clients needs. 
+<br /><br />
+Our managed hosting packages start as low as $60.00 per year. 
+                </p>
+                
+                
+                
+                
+                
 			</div>
 		</div>
 	</div> <!-- /#contents -->

@@ -67,7 +67,7 @@ require_once ('menu.php');
 	</div> <!-- /#adbox -->
 	<div id="contents"style="padding-top: 200px;">
 		<div class="body">
-			<div id="sidebar">
+		<!--	<div id="sidebar">
 				<h3>Blog</h3>
 				<ul>
 					<li>
@@ -96,6 +96,7 @@ require_once ('menu.php');
 					</li>
 				</ul>
 			</div>
+        -->    
 			<div id="main" style="height: 700px;">
 				<span>Rievan Design prides it's self on keeping up with all technoligies that improve the web viability of small to large companies. </span>
 				<ul>
