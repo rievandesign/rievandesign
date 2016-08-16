@@ -67,7 +67,7 @@ require_once ('menu.php');
 	</div> <!-- /#adbox -->
 	<div id="contents"style="padding-top: 200px;">
 		<div class="body">
-		<!--test	<div id="sidebar">
+		<!--	<div id="sidebar">
 				<h3>Blog</h3>
 				<ul>
 					<li>
